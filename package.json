@@ -1,6 +1,6 @@
 {
   "name": "jours-feries-france-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "jours fériés en France",
   "keywords": [
     "node",
@@ -14,7 +14,7 @@
   "types": "./dist/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christophe77/jours-feries-js"
+    "url": "git+https://github.com/christophe77/jours-feries-france-js"
   },
   "author": "christophe bellec",
   "license": "MIT",
