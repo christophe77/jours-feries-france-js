@@ -1,6 +1,6 @@
 {
   "name": "jours-feries-france-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jours fériés en France",
   "keywords": [
     "node",
@@ -27,7 +27,6 @@
     "build:esm": "tsc",
     "build:cjs": "tsc --module commonjs --outDir dist/cjs",
     "prepare": "yarn build",
-    "prepublishOnly": "yarn prettier && yarn lint",
     "lint": "eslint \"{**/*,*}.{js,ts}\"",
     "prettier": "prettier --write \"{src,tests,example/src}/**/*.{js,ts}\""
   },
